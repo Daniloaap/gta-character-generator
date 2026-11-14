@@ -4,7 +4,7 @@
 Gerador interativo de avatares no estilo Grand Theft Auto (GTA) alimentado por Inteligência Artificial. Este projeto permite que o usuário envie sua própria foto e a transforme instantaneamente em um personagem personalizado de GTA.
 
 *Demonstração*:
-Você pode testar o projeto rodando na nuvem através do link abaixo:
+Você pode testar o projeto rodando na nuvem através do link:
 https://gta-character-generator.netlify.app
 
 *Tecnologias Utilizadas*:
