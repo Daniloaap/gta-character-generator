@@ -1,13 +1,13 @@
 # gta-character-generator
 
-*GTA Character Generator (com IA)*
+*GTA Character Generator (com IA)*:
 Gerador interativo de avatares no estilo Grand Theft Auto (GTA) alimentado por Inteligência Artificial. Este projeto permite que o usuário envie sua própria foto e a transforme instantaneamente em um personagem personalizado de GTA.
 
-*Demonstração*
+*Demonstração*:
 Você pode testar o projeto rodando na nuvem através do link abaixo:
 https://gta-character-generator.netlify.app
 
-*Tecnologias Utilizadas*
+*Tecnologias Utilizadas*:
 O projeto foi desenvolvido do zero utilizando tecnologias modernas da web:
 
 HTML5: Estrutura e marcação semântica da página.
